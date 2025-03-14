@@ -2,9 +2,9 @@
   "id": "example-plugin",
   "name": "example-plugin",
   "description": "A MESH plugin named example-plugin",
-  "author": "rxsonanz",
+  "author": "rxdevelop",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "github:username/example-plugin",
+  "repository": "mesh-shell/example-plugin",
   "license": "MIT"
 }
