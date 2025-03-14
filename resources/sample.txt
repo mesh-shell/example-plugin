@@ -1,0 +1,11 @@
+This is a sample resource file for example-plugin (example-plugin).
+
+You can read this file from your plugin code using:
+
+const fs = require('fs');
+const path = require('path');
+const resourcePath = path.join(__dirname, 'resources', 'sample.txt');
+const content = fs.readFileSync(resourcePath, 'utf8');
+
+You can add any text-based content here that your plugin might need,
+such as templates, default configurations, or help information.

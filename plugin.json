@@ -1,0 +1,10 @@
+{
+  "id": "example-plugin",
+  "name": "example-plugin",
+  "description": "A MESH plugin named example-plugin",
+  "author": "rxsonanz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "github:username/example-plugin",
+  "license": "MIT"
+}

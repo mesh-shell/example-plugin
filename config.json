@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "debug": false,
+  "options": {
+    "greeting": "Hello World!",
+    "color": "green",
+    "showTimestamp": true,
+    "maxLogEntries": 100
+  },
+  "features": {
+    "advanced": false,
+    "experimental": false
+  },
+  "paths": {
+    "data": "./data",
+    "logs": "./logs"
+  }
+}
